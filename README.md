@@ -17,4 +17,6 @@
   I'm always exploring new technologies and learning to build efficient, user-friendly tools and applications. When I'm not coding, you’ll find me finding solutions to complex problems, as I continuously strive to expand my knowledge and stay ahead in the tech world!
 
 - 📫 **How to reach me:**  
-  You can reach me via email at [sanjeeveswaramoorthy@gmail.com](mailto:sanjeeveswaramoorthy@gmail.com) or through LinkedIn at [linkedin.com/in/sanjeev-v-e-389422192](https://linkedin.com/in/sanjeev-v-e-389422192).
+  You can reach me via
+  Email : [sanjeeveswaramoorthy@gmail.com](mailto:sanjeeveswaramoorthy@gmail.com)
+  LinkedIn : [linkedin.com/in/sanjeev-v-e-389422192](https://linkedin.com/in/sanjeev-v-e-389422192).
